@@ -1,8 +1,8 @@
 # AZURE CLI COMMANDS
 
 
-
 azure
+
 	account
 		list [options]				#List the imported subscriptions
 		show [options] [subscriptionNameOrId] 	#Show details about a subscription
@@ -29,6 +29,7 @@ azure
 		delete [options] <name>			#Delete a config setting
 		set <name> <value>			#Update a config setting
 		mode [options] <name>			#Sets the cli working mode, valid names are 'arm' for resource manager and 'asm' for service management
+
 
 	network
 		export [options] <file-path>				#Export the current Network configuration to a file
