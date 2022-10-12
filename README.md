@@ -3,7 +3,6 @@
 
 
 azure
-
 	account
 		list [options]				#List the imported subscriptions
 		show [options] [subscriptionNameOrId] 	#Show details about a subscription
